@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="khttp-1.0.0" level="project" />
+    <orderEntry type="library" name="json-20200518" level="project" />
   </component>
 </module>
